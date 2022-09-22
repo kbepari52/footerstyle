@@ -46,6 +46,11 @@ background-color:#121619;
 color:#fff;
 }
 
+.social{
+  font-size:20px;
+}
+
+
 .top_header{
 padding:2rem;
 display:flex;
